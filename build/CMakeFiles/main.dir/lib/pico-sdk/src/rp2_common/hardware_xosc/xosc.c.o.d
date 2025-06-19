@@ -1,0 +1,35 @@
+CMakeFiles/main.dir/lib/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o: \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2_common/hardware_xosc/xosc.c \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/common/pico_base_headers/include/pico.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/common/pico_base_headers/include/pico/assert.h \
+ /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+ /usr/include/newlib/assert.h /usr/include/newlib/_ansi.h \
+ /usr/include/newlib/newlib.h /usr/include/newlib/_newlib_version.h \
+ /usr/include/newlib/sys/config.h /usr/include/newlib/machine/ieeefp.h \
+ /usr/include/newlib/sys/features.h \
+ /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /usr/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/generated/pico_base/pico/version.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/common/pico_base_headers/include/pico/config.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/generated/pico_base/pico/config_autogen.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/boards/include/boards/pico_w.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2040/pico_platform/include/pico/platform.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
+ /usr/include/newlib/sys/cdefs.h \
+ /usr/include/newlib/machine/_default_types.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/clocks.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/clocks.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/xosc.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2_common/hardware_xosc/include/hardware/xosc.h \
+ /home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/lib/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/xosc.h

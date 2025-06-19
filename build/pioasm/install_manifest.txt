@@ -1,0 +1,5 @@
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm-install/pioasm/pioasm
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

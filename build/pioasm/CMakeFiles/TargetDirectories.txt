@@ -1,0 +1,7 @@
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm/CMakeFiles/pioasm.dir
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm/CMakeFiles/edit_cache.dir
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm/CMakeFiles/list_install_components.dir
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm/CMakeFiles/install.dir
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm/CMakeFiles/install/local.dir
+/home/malinkyzubr/Documents/personal_projects/ZubrDSPFirmware/build/pioasm/CMakeFiles/install/strip.dir
