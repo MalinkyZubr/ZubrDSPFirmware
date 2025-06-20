@@ -2,8 +2,15 @@
 // Created by malinkyzubr on 6/19/25.
 //
 
+// pico SDK includes
 #include "pico/stdlib.h"
 #include "pico/cyw43_arch.h"
+#include "bsp/board.h"
+
+// tinyusb stuff
+#include "tusb.h"
+#include "bsp/board_api.h"
+
 
 int main() {
     stdio_init_all();
@@ -11,10 +18,13 @@ int main() {
         printf("Wi-Fi init failed");
         return -1;
     }
+    uint pins[4] = {2, 3, 4, 5};
+    configure_usb_indicators(pins);
+
     while (true) {
-        cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, 1);
-        sleep_ms(250);
-        cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, 0);
-        sleep_ms(250);
+        for (int x = 0; x < 4; x ++) {
+            sleep_ms(1000);
+            update_gpio_indicators(x, pins);
+        }
     }
 }

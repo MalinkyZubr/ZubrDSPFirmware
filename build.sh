@@ -6,4 +6,4 @@ cd -
 mkdir build
 cd ./build
 cmake .. -DPICO_CYW43_SUPPORTED=1 -DPICO_BOARD=pico_w
-make main
+make main SPEED=full all
